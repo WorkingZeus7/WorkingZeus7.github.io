@@ -4,10 +4,19 @@ body {
     color: cyan;
 }
 
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 section {
     background-color: #333333;
     margin: 2rem;
     padding: 1rem;
+    max-width: 90%;
+    width: 40rem;
+    
     border: solid cyan;
     border-radius: 1rem;
 }
