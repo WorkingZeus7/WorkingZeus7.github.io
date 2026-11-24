@@ -13,11 +13,12 @@ main {
 section {
     background-color: #333333;
     margin: 2rem;
-    padding: 1rem;
+    padding: 0.5rem;
+    padding-left: 1rem;
     max-width: 90%;
     width: 40rem;
     
-    border: solid cyan;
+    border: 0.15rem solid cyan;
     border-radius: 1rem;
 }
 
