@@ -1,7 +1,14 @@
 body {
     background-color: darkslategray;
+    margin: 0;
     padding: 0;
     color: cyan;
+}
+
+header {
+    background-color: #333333;
+    margin: 0;
+    padding: 0.5rem;
 }
 
 main {
@@ -12,7 +19,7 @@ main {
 
 section {
     background-color: #333333;
-    margin: 2rem;
+    margin: 1.5rem;
     padding: 0.5rem;
     padding-left: 1rem;
     max-width: 90%;
