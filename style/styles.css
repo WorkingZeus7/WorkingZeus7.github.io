@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     color: cyan;
+    font-family: customFont;
 }
 
 header {
@@ -35,4 +36,9 @@ article {
 
 p {
     margin: 0.5rem;
+}
+
+@font-face {
+    font-family: customFont;
+    src: url(../Asimovian-Regular.ttf);
 }
